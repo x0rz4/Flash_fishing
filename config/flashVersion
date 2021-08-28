@@ -1,0 +1,115 @@
+_flash_install_packages_({
+	"activex": {
+		"date": "2021-08-10",
+		"version": "34.0.0.184",
+		"size": "19.8MB",
+		"downloadURL": "https://www.flash.cn/cdm/latest/flashplayerax_install_cn.exe",
+		"downloadURLForNotSource": "https://www.flash.cn/cdm/latest/flashplayeraxau_install_cn.exe",
+		"downloadURLForWin8": "https://www.flash.cn/cdm/latest/flashplayerax_install_cn.exe",
+		"downloadURLForWin8NotSource": "https://www.flash.cn/cdm/latest/flashplayeraxau_install_cn.exe"
+	},
+	"ppapi": {
+		"date": "2021-08-10",
+		"version": "34.0.0.184",
+		"size": "20.1MB",
+		"downloadURL": "https://www.flash.cn/cdm/latest/flashplayerpp_install_cn.exe",
+		"downloadURLForNotSource": "https://www.flash.cn/cdm/latest/flashplayerppau_install_cn.exe"
+	},
+	"npapi": {
+		"date": "2021-08-10",
+		"version": "34.0.0.184",
+		"size": "20.3MB",
+		"downloadURL": "https://www.flash.cn/cdm/latest/flashplayer_install_cn.exe",
+		"downloadURLForNotSource": "https://www.flash.cn/cdm/latest/flashplayerau_install_cn.exe"
+	},
+	"mac-ppapi": {
+		"date": "2021-08-10",
+		"version": "34.0.0.184",
+		"size": "21MB",
+		"downloadURL": "https://www.flash.cn/flashplayer/latest/install_flash_player_osx_ppapi.dmg",
+		"downloadURLForNotSource": "https://www.flash.cn/cdm/latest/flashplayerppau_install_cn.exe"
+	},
+	"mac-npapi": {
+		"date": "2021-08-10",
+		"version": "34.0.0.184",
+		"size": "21MB",
+		"downloadURL": "https://www.flash.cn/flashplayer/latest/install_flash_player_osx.dmg",
+		"downloadURLForNotSource": "https://www.flash.cn/cdm/latest/flashplayerau_install_cn.exe"
+	},
+	"linux-64-tar-npapi": {
+		"date": "2021-04-13",
+		"version": "34.0.0.137",
+		"size": "9MB",
+		"downloadURL": "https://www.flash.cn/cdm/latest/flash_player_npapi_linux.x86_64.tar.gz",
+		"downloadURLForNotSource": "https://www.flash.cn/cdm/latest/flashplayerau_install_cn.exe"
+	},
+	"linux-64-rpm-npapi": {
+		"date": "2021-04-13",
+		"version": "34.0.0.137",
+		"size": "8.6MB",
+		"downloadURL": "https://www.flash.cn/cdm/latest/flash-player-npapi-release.x86_64.rpm",
+		"downloadURLForNotSource": "https://www.flash.cn/cdm/latest/flashplayerau_install_cn.exe"
+	},
+	"linux-32-rpm-npapi": {
+		"date": "2021-04-13",
+		"version": "34.0.0.137",
+		"size": "8.1MB",
+		"downloadURL": "https://www.flash.cn/cdm/latest/flash-player-npapi-release.i386.rpm",
+		"downloadURLForNotSource": "https://www.flash.cn/cdm/latest/flashplayerau_install_cn.exe"
+	},
+	"linux-64-tar-ppapi": {
+		"date": "2021-04-13",
+		"version": "34.0.0.137",
+		"size": "9MB",
+		"downloadURL": "https://www.flash.cn/cdm/latest/flash_player_ppapi_linux.x86_64.tar.gz",
+		"downloadURLForNotSource": "https://www.flash.cn/cdm/latest/flashplayerau_install_cn.exe"
+	},
+	"linux-32-tar-ppapi": {
+		"date": "2021-04-13",
+		"version": "34.0.0.137",
+		"size": "8.2MB",
+		"downloadURL": "https://www.flash.cn/cdm/latest/flash_player_ppapi_linux.i386.tar.gz",
+		"downloadURLForNotSource": "https://www.flash.cn/cdm/latest/flashplayerau_install_cn.exe"
+	},
+	"linux-64-rpm-ppapi": {
+		"date": "2021-04-13",
+		"version": "34.0.0.137",
+		"size": "9MB",
+		"downloadURL": "https://www.flash.cn/cdm/latest/flash-player-ppapi-release.x86_64.rpm",
+		"downloadURLForNotSource": "https://www.flash.cn/cdm/latest/flashplayerau_install_cn.exe"
+	},
+	"linux-32-rpm-ppapi": {
+		"date": "2021-04-13",
+		"version": "34.0.0.137",
+		"size": "8.1MB",
+		"downloadURL": "https://www.flash.cn/cdm/latest/flash-player-ppapi-release.i386.rpm",
+		"downloadURLForNotSource": "https://www.flash.cn/cdm/latest/flashplayerau_install_cn.exe"
+	},
+	"linux-32-tar-npapi": {
+		"date": "2021-04-13",
+		"version": "34.0.0.137",
+		"size": "8.1MB",
+		"downloadURL": "https://www.flash.cn/cdm/latest/flash_player_npapi_linux.i386.tar.gz",
+		"downloadURLForNotSource": "https://www.flash.cn/cdm/latest/flashplayerau_install_cn.exe"
+	},
+	"fc-ppapi": {
+		"date": "2021-08-10",
+		"downloadURL": "https://www.flash.cn/cdm/latest/flashplayerpp_install_cn_fc.exe"
+	},
+	"fc-activex": {
+		"date": "2021-08-10",
+		"downloadURL": "https://www.flash.cn/cdm/latest/flashplayerax_install_cn_fc.exe"
+	},
+	"fc-npapi": {
+		"date": "2021-08-10",
+		"downloadURL": "https://www.flash.cn/cdm/latest/flashplayer_install_cn_fc.exe"
+	},
+	"fc-activeX": {
+		"date": "2021-08-10",
+		"downloadURL": "https://www.flash.cn/cdm/latest/flashplayerax_install_cn_fc.exe"
+	},
+	"fc-ppax": {
+		"date": "2021-08-10",
+		"downloadURL": "https://www.flash.cn/cdm/latest/flashplayerpp_ax_install_cn_fc.exe"
+	}
+});
